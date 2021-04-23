@@ -3,7 +3,7 @@
 Challenged to refactor website of improved website accessibility for search engines and developers. 
 
 ## Challenge Link
-[Access the Challenge Here](jbped.github.io/challenge-1)
+[Access the Challenge Here](https://jbped.github.io/challenge-1/)
 
 ### Actions Taken:
 1. Got rid of that div soup and used more appropriate symantic tags to make the page more digestable for browsers and accessibility programs. This included refactoring the CSS stylesheet to match the changes made in the HTML file without effecting the displayed stylization of the page.
