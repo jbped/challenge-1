@@ -17,9 +17,6 @@ Challenged to refactor website of improved website accessibility for search engi
 5. Added alt attributes to each image
 
 ## Images
-**Image of webpage** 
-
-![Webpage-Image](./assets/images/webpage-md-pic.png)
 
 **Image of HTML**
 
