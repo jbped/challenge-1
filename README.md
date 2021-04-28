@@ -18,6 +18,8 @@ Challenged to refactor website of improved website accessibility for search engi
 
 ## Images
 
+![Web-Image](./assets/images/Webpage-md-pic.png)
+
 **Image of HTML**
 
 ![HTML-Image](./assets/images/html-img.png)
